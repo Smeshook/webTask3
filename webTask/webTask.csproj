@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="searchingLibrary">
+      <HintPath>..\..\DD_Task1\searchingLibrary\bin\Debug\net7.0\searchingLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
